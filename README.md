@@ -1,2 +1,2 @@
-# Fashion-House
-mickey valentino fashion house
+# Digital-Clock_practice
+Digital correct time 
