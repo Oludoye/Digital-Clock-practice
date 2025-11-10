@@ -6,7 +6,7 @@ body{
     align-items: center;
     height: 100vh;
     justify-content: center;
-    background: url(/bathroom 2.jpg);
+    background: url(bathroom-2.jpg);
     background-size: cover;
     overflow: hidden;
 }
@@ -54,3 +54,4 @@ margin: 5px;
     background: forestgreen;
 
 }
+
